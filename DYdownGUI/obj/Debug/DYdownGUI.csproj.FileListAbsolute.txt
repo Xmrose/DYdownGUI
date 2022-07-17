@@ -1,0 +1,10 @@
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\bin\Debug\DYdownGUI.exe.config
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\bin\Debug\DYdownGUI.exe
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\bin\Debug\DYdownGUI.pdb
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.csprojAssemblyReference.cache
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.Form1.resources
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.Properties.Resources.resources
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.csproj.GenerateResource.cache
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.csproj.CoreCompileInputs.cache
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.exe
+C:\Users\jayzh\Desktop\DYdowner\DYdownGUI\DYdownGUI\obj\Debug\DYdownGUI.pdb
